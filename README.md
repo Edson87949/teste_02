@@ -6,4 +6,6 @@ aqui é no outro pc
 
 ola mundo 
 
-david e iangit
+david e ian
+
+git
