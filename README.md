@@ -9,3 +9,5 @@ ola mundo
 david e ian
 
 git
+
+teste de linux lite
